@@ -5,10 +5,8 @@
 <p align="center">
 Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
 </p>
-
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🚀 Bootcamp NTT DATA: Backend Java com Spring AI <br>
 💼 Supervisor de Loja | Em transição para a área de Tecnologia
 </p>
 
